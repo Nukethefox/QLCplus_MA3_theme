@@ -1,6 +1,6 @@
 # QLCplus_MA3_theme
 GrandMA3 theme for QLC+ by Nuke the fox.
-Just place the file under C:\Users\ (your user) \QLC+\.
+Just place the file under C:\Users\ (your user) \QLC+\ on Windows, or /home/.qlcplus on Ubuntu.
 Remember to use the latest QLC+ version.
 
 Adding fixtures:
