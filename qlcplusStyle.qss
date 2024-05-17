@@ -31,16 +31,25 @@ QTextBrowser {
   background-color: #2a2a30; 
   color: white;
   font-size: 15px;
-  border: 3px solid #9999a0;
+  border: 3px solid #67676e;
   border-radius: 10px;
 }
 
 /* TOOLBAR BUTTONS */
 QToolButton {
   color: white;
-  border-top: 2px solid #616166;
+  border: 1px solid #000000;
   border-radius: 5px;
   background-color: #383840;
+}
+QToolButton::hover {
+  background-color: #2a2a30;
+}
+QToolButton::pressed {
+  background-color: #2a2a30;
+}
+QToolButton::checked {
+  background-color: #2a2a30;
 }
 QToolBar {
   background-color: #000000;
@@ -130,7 +139,7 @@ QHeaderView::section {
 
 /* TREE VIEWS (Fixtures and I/O Selection) */
 QTreeWidget, QTreeView { 
-  border: 3px solid #9999a0;
+  border: 3px solid #67676e;
   border-radius: 10px;
   background-color: #000000; 
   color: white; 
@@ -155,7 +164,7 @@ QTreeWidget::item:selected:!active, QTreeView::item:selected:!active {
 
 /* LISTS (universes, fixture channels, etc) */
 QListWidget{
-  border: 3px solid #9999a0;
+  border: 3px solid #67676e;
   border-radius: 10px;
   background-color: #000000; 
   color: white; 
