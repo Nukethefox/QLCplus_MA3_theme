@@ -3,12 +3,15 @@ GrandMA3 theme for QLC+ by Nuke the fox.
 Just place the file under C:\Users\ (your user) \QLC+\ on Windows, or /home/.qlcplus on Ubuntu.
 Remember to use the latest QLC+ version.
 
-Adding fixtures:
-![qlcplus_ma3_1](https://github.com/Nukethefox/QLCplus_MA3_theme/assets/125735099/80950b2c-341a-4e6e-baf8-9392368f696c)
+### Patching fixtures:
+![qlc patching](https://github.com/Nukethefox/QLCplus_MA3_theme/assets/125735099/14cfa09b-92ce-4b59-bfe8-1ba22e978366)
 
-Editing functions:
-![qlcplus_ma3_2](https://github.com/Nukethefox/QLCplus_MA3_theme/assets/125735099/5619ee95-6fc6-4b1a-bc16-e73626415245)
+### Editing functions:
+![qlc functions](https://github.com/Nukethefox/QLCplus_MA3_theme/assets/125735099/ab600a07-1b71-4899-be78-dc0847e09400)
 
-Simple desk:
-![qlcplus_ma3_3](https://github.com/Nukethefox/QLCplus_MA3_theme/assets/125735099/9ab34600-d2af-4352-9797-f9a9cfb4cb1c)
+### Simple desk:
+![qlc simple desk](https://github.com/Nukethefox/QLCplus_MA3_theme/assets/125735099/a206bd2c-dcd9-499f-8562-cfac8bbf25b4)
+
+### Example: virtual console:
+![qlc vc](https://github.com/Nukethefox/QLCplus_MA3_theme/assets/125735099/19ab74b9-05da-4770-afe2-322efce66e09)
 
